@@ -76,14 +76,4 @@ YOLOv8n is used for object detection.
 - Test image prediction
 - Best model saving
 
-## Project Structure
 
-```text
-Tesla-Autopilot-Clone-Object-Detection/
-│
-├── Tesla_Autopilot_Object_Detection.py
-├── Tesla_Autopilot_Object_Detection.ipynb
-├── README.md
-├── requirements.txt
-├── kitti.yaml
-└── .gitignore
